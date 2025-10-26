@@ -35,4 +35,5 @@ Once you run the script, simply follow the on-screen prompts:
 The application will then output your personalized astrological reading.
 
 *Made with love (and a little bit of Python magic).*
-                                                        * - ADITYA BARGALE*
+                                                        
+* - ADITYA BARGALE*
