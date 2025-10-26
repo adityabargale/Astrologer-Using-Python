@@ -36,4 +36,4 @@ The application will then output your personalized astrological reading.
 
 *Made with love (and a little bit of Python magic).*
                                                         
-* - ADITYA BARGALE *
+* Creator - Aditya Bargale 
